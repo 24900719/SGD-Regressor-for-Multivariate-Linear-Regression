@@ -25,6 +25,7 @@ Developed by: K SARANYA
 RegisterNumber:  212224040298
 */
 ```
+```
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
